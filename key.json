@@ -1,11 +1,7 @@
 {
-  "KEY": [
-    "DEV-6CD2B0A7BBA2"
-  ],
+  "KEY": [],
   "USERS": {
     "6751273501": 1
   },
-  "EXPIRATIONS": {
-    "DEV-6CD2B0A7BBA2": 1777737531
-  }
+  "EXPIRATIONS": {}
 }
